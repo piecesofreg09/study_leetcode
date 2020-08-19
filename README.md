@@ -16,3 +16,5 @@ Codes for leetcode
 0023 [Merge k sorted lists](https://github.com/piecesofreg09/study_leetcode/blob/master/0023_merge_k_sorted_lists.py)
 
 0025 [Reverse Nodes in k-group](https://github.com/piecesofreg09/study_leetcode/blob/master/0025_reverse_nodes_in_k_group.py)
+
+0041 [First Missing Positive](https://github.com/piecesofreg09/study_leetcode/blob/master/0041_first_missing_positive.py)
