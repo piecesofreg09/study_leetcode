@@ -8,3 +8,5 @@ Codes for leetcode
 0006: [ZigZag Conversion](https://github.com/piecesofreg09/study_leetcode/blob/master/0006_zigzag_converstion.py)
 
 0011 [Container With Most Water](https://github.com/piecesofreg09/study_leetcode/blob/master/0011_container_with_most_water.py)
+
+0015 [3sum](https://github.com/piecesofreg09/study_leetcode/blob/master/0015_3_sum.py)
