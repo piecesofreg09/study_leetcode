@@ -12,3 +12,5 @@ Codes for leetcode
 0015 [3sum](https://github.com/piecesofreg09/study_leetcode/blob/master/0015_3_sum.py)
 
 0018 [4sum](https://github.com/piecesofreg09/study_leetcode/blob/master/0018_4sum.py)
+
+0023 [Merge k sorted lists](https://github.com/piecesofreg09/study_leetcode/blob/master/0023_merge_k_sorted_lists.py)
