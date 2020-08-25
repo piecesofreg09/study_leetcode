@@ -30,3 +30,5 @@ Codes for leetcode
 0072 [Edit Distance](https://github.com/piecesofreg09/study_leetcode/blob/master/0072_edit_distance.py)
 
 0084 [Largest Rectangle in Histogram](https://github.com/piecesofreg09/study_leetcode/blob/master/0084_largetst_rectangle_in_hist.py)
+
+0191 [Number of 1 Bits](https://github.com/piecesofreg09/study_leetcode/blob/master/0191_Number_of_1_Bits.py)
