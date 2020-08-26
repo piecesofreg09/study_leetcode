@@ -31,6 +31,8 @@ Codes for leetcode
 
 0073 [Set Matrix Zeroes](https://github.com/piecesofreg09/study_leetcode/blob/master/0073_set_matrix_zeros.py)
 
+0075 [Sort Colors](https://github.com/piecesofreg09/study_leetcode/blob/master/0075_sort_colors.py)
+
 0078 [Subsets (Multiple methods)](https://github.com/piecesofreg09/study_leetcode/blob/master/0078_subsets.py)
 
 0084 [Largest Rectangle in Histogram](https://github.com/piecesofreg09/study_leetcode/blob/master/0084_largetst_rectangle_in_hist.py)
@@ -43,6 +45,14 @@ Codes for leetcode
 
 0149 [Max Points On A Line](https://github.com/piecesofreg09/study_leetcode/blob/master/0149_max_points_on_a_line.py)
 
+0190 [Reverse Bits](https://github.com/piecesofreg09/study_leetcode/blob/master/0190_reverse_bits.py)
+
 0191 [Number of 1 Bits](https://github.com/piecesofreg09/study_leetcode/blob/master/0191_Number_of_1_Bits.py)
 
+0326 [Power of 3 (Multiple solutions)](https://github.com/piecesofreg09/study_leetcode/blob/master/0326_power_of_3.py)
+
+0378 [Kth Smallest Element in a Sorted Matrix (Multiple solutions)](https://github.com/piecesofreg09/study_leetcode/blob/master/0378_kth_smallest_element_in_sorted_array.py)
+
 0412 [Fizz Buzz](https://github.com/piecesofreg09/study_leetcode/blob/master/0412_fizzbuzz.py)
+
+0719 [Find K-th Smallest Pair Distance](https://github.com/piecesofreg09/study_leetcode/blob/master/0719_find_kth_smallest_pair_distance.py)
