@@ -25,6 +25,7 @@ Code for Leetcode
 |M|0078|[Subsets (Multiple methods)](https://github.com/piecesofreg09/study_leetcode/blob/master/0078_subsets.py)
 |M|0079|[Word Search](https://github.com/piecesofreg09/study_leetcode/blob/master/0079_word_search.py)
 |H|0084|[Largest Rectangle in Histogram](https://github.com/piecesofreg09/study_leetcode/blob/master/0084_largetst_rectangle_in_hist.py)
+|M|0086|[Partition List](https://github.com/piecesofreg09/study_leetcode/blob/master/0086_partition_list.py)
 |E|0088|[Merge Sorted Array](https://github.com/piecesofreg09/study_leetcode/blob/master/0088_merge_sorted_array.py)
 |H|0097|[Interleaving String](https://github.com/piecesofreg09/study_leetcode/blob/master/0097_interleaving_string.py)
 |M|0103|[Binary Tree Zigzag Level Order Traversal](https://github.com/piecesofreg09/study_leetcode/blob/master/0103_Binary_Tree_Zigzag_Level_Order_Traversal.py)
