@@ -58,3 +58,5 @@ Codes for leetcode
 0719 [Find K-th Smallest Pair Distance](https://github.com/piecesofreg09/study_leetcode/blob/master/0719_find_kth_smallest_pair_distance.py)
 
 0980 [Unique Paths III](https://github.com/piecesofreg09/study_leetcode/blob/master/0980_Unique_Paths_III.py)
+
+1402 [Reducing Dishes](https://github.com/piecesofreg09/study_leetcode/blob/master/1402_Reducing_Dishes.py)
