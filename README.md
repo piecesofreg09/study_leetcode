@@ -45,28 +45,28 @@ H 0084 [Largest Rectangle in Histogram](https://github.com/piecesofreg09/study_l
 
 E 0088 [Merge Sorted Array](https://github.com/piecesofreg09/study_leetcode/blob/master/0088_merge_sorted_array.py)
 
-0097 [Interleaving String](https://github.com/piecesofreg09/study_leetcode/blob/master/0097_interleaving_string.py)
+H 0097 [Interleaving String](https://github.com/piecesofreg09/study_leetcode/blob/master/0097_interleaving_string.py)
 
-0103 [Binary Tree Zigzag Level Order Traversal](https://github.com/piecesofreg09/study_leetcode/blob/master/0103_Binary_Tree_Zigzag_Level_Order_Traversal.py)
+M 0103 [Binary Tree Zigzag Level Order Traversal](https://github.com/piecesofreg09/study_leetcode/blob/master/0103_Binary_Tree_Zigzag_Level_Order_Traversal.py)
 
 M 0137 [Single Number II](https://github.com/piecesofreg09/study_leetcode/blob/master/0137_Single_Number_II.py)
 
-0149 [Max Points On A Line](https://github.com/piecesofreg09/study_leetcode/blob/master/0149_max_points_on_a_line.py)
+H 0149 [Max Points On A Line](https://github.com/piecesofreg09/study_leetcode/blob/master/0149_max_points_on_a_line.py)
 
-0190 [Reverse Bits](https://github.com/piecesofreg09/study_leetcode/blob/master/0190_reverse_bits.py)
+E 0190 [Reverse Bits](https://github.com/piecesofreg09/study_leetcode/blob/master/0190_reverse_bits.py)
 
-0191 [Number of 1 Bits](https://github.com/piecesofreg09/study_leetcode/blob/master/0191_Number_of_1_Bits.py)
+E 0191 [Number of 1 Bits](https://github.com/piecesofreg09/study_leetcode/blob/master/0191_Number_of_1_Bits.py)
 
-0326 [Power of 3 (Multiple solutions)](https://github.com/piecesofreg09/study_leetcode/blob/master/0326_power_of_3.py)
+E 0326 [Power of 3 (Multiple solutions)](https://github.com/piecesofreg09/study_leetcode/blob/master/0326_power_of_3.py)
 
-0378 [Kth Smallest Element in a Sorted Matrix (Multiple solutions)](https://github.com/piecesofreg09/study_leetcode/blob/master/0378_kth_smallest_element_in_sorted_array.py)
+M 0378 [Kth Smallest Element in a Sorted Matrix (Multiple solutions)](https://github.com/piecesofreg09/study_leetcode/blob/master/0378_kth_smallest_element_in_sorted_array.py)
 
-0381 [Insert Delete GetRandom O(1) - Duplicates allowed](https://github.com/piecesofreg09/study_leetcode/blob/master/0381_insert_remove_get_random_O(1).py)
+H 0381 [Insert Delete GetRandom O(1) - Duplicates allowed](https://github.com/piecesofreg09/study_leetcode/blob/master/0381_insert_remove_get_random_O(1).py)
 
-0412 [Fizz Buzz](https://github.com/piecesofreg09/study_leetcode/blob/master/0412_fizzbuzz.py)
+E 0412 [Fizz Buzz](https://github.com/piecesofreg09/study_leetcode/blob/master/0412_fizzbuzz.py)
 
-0719 [Find K-th Smallest Pair Distance](https://github.com/piecesofreg09/study_leetcode/blob/master/0719_find_kth_smallest_pair_distance.py)
+H 0719 [Find K-th Smallest Pair Distance](https://github.com/piecesofreg09/study_leetcode/blob/master/0719_find_kth_smallest_pair_distance.py)
 
-0980 [Unique Paths III](https://github.com/piecesofreg09/study_leetcode/blob/master/0980_Unique_Paths_III.py)
+H 0980 [Unique Paths III](https://github.com/piecesofreg09/study_leetcode/blob/master/0980_Unique_Paths_III.py)
 
-1402 [Reducing Dishes](https://github.com/piecesofreg09/study_leetcode/blob/master/1402_Reducing_Dishes.py)
+H 1402 [Reducing Dishes](https://github.com/piecesofreg09/study_leetcode/blob/master/1402_Reducing_Dishes.py)
