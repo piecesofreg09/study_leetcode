@@ -33,13 +33,17 @@ H 0030 [Substring with Concatenation of All Words](https://github.com/piecesofre
 
 0073 [Set Matrix Zeroes](https://github.com/piecesofreg09/study_leetcode/blob/master/0073_set_matrix_zeros.py)
 
-0075 [Sort Colors](https://github.com/piecesofreg09/study_leetcode/blob/master/0075_sort_colors.py)
+M 0075 [Sort Colors](https://github.com/piecesofreg09/study_leetcode/blob/master/0075_sort_colors.py)
 
-0078 [Subsets (Multiple methods)](https://github.com/piecesofreg09/study_leetcode/blob/master/0078_subsets.py)
+H 0076 [Minimum Window Substring](https://github.com/piecesofreg09/study_leetcode/blob/master/0076_minimum_window_substring.py)
 
-0084 [Largest Rectangle in Histogram](https://github.com/piecesofreg09/study_leetcode/blob/master/0084_largetst_rectangle_in_hist.py)
+M 0077 [Combinations](https://github.com/piecesofreg09/study_leetcode/blob/master/0077_Combinations.py)
 
-0088 [Merge Sorted Array](https://github.com/piecesofreg09/study_leetcode/blob/master/0088_merge_sorted_array.py)
+M 0078 [Subsets (Multiple methods)](https://github.com/piecesofreg09/study_leetcode/blob/master/0078_subsets.py)
+
+H 0084 [Largest Rectangle in Histogram](https://github.com/piecesofreg09/study_leetcode/blob/master/0084_largetst_rectangle_in_hist.py)
+
+E 0088 [Merge Sorted Array](https://github.com/piecesofreg09/study_leetcode/blob/master/0088_merge_sorted_array.py)
 
 0097 [Interleaving String](https://github.com/piecesofreg09/study_leetcode/blob/master/0097_interleaving_string.py)
 
