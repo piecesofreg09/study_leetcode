@@ -23,6 +23,7 @@ Code for Leetcode
 |H|0076|[Minimum Window Substring](https://github.com/piecesofreg09/study_leetcode/blob/master/0076_minimum_window_substring.py)
 |M|0077|[Combinations](https://github.com/piecesofreg09/study_leetcode/blob/master/0077_Combinations.py)
 |M|0078|[Subsets (Multiple methods)](https://github.com/piecesofreg09/study_leetcode/blob/master/0078_subsets.py)
+|M|0079|[Word Search](https://github.com/piecesofreg09/study_leetcode/blob/master/0079_word_search.py)
 |H|0084|[Largest Rectangle in Histogram](https://github.com/piecesofreg09/study_leetcode/blob/master/0084_largetst_rectangle_in_hist.py)
 |E|0088|[Merge Sorted Array](https://github.com/piecesofreg09/study_leetcode/blob/master/0088_merge_sorted_array.py)
 |H|0097|[Interleaving String](https://github.com/piecesofreg09/study_leetcode/blob/master/0097_interleaving_string.py)
