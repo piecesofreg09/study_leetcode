@@ -12,7 +12,7 @@ Code for Leetcode
 |H|0023|[Merge k sorted lists](https://github.com/piecesofreg09/study_leetcode/blob/master/0023_merge_k_sorted_lists.py)
 |H|0025|[Reverse Nodes in k-group](https://github.com/piecesofreg09/study_leetcode/blob/master/0025_reverse_nodes_in_k_group.py)
 |H|0030|[Substring with Concatenation of All Words](https://github.com/piecesofreg09/study_leetcode/blob/master/0030_Substring_with_Concatenation_of_All_Words.py)
-|M|0036[Valid Sudoku](https://github.com/piecesofreg09/study_leetcode/blob/master/0036_valid_sudoku.py)
+|M|0036|[Valid Sudoku](https://github.com/piecesofreg09/study_leetcode/blob/master/0036_valid_sudoku.py)
 |H|0041|[First Missing Positive](https://github.com/piecesofreg09/study_leetcode/blob/master/0041_first_missing_positive.py)
 |H|0042|[Trapping rain water](https://github.com/piecesofreg09/study_leetcode/blob/master/0042_trapping_rain_water.py)
 |M|0043|[Multiply Strings](https://github.com/piecesofreg09/study_leetcode/blob/master/0043_multiply_string.py)
