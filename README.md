@@ -61,6 +61,8 @@ M 0137 [Single Number II](https://github.com/piecesofreg09/study_leetcode/blob/m
 
 0378 [Kth Smallest Element in a Sorted Matrix (Multiple solutions)](https://github.com/piecesofreg09/study_leetcode/blob/master/0378_kth_smallest_element_in_sorted_array.py)
 
+0381 [Insert Delete GetRandom O(1) - Duplicates allowed](https://github.com/piecesofreg09/study_leetcode/blob/master/0381_insert_remove_get_random_O(1).py)
+
 0412 [Fizz Buzz](https://github.com/piecesofreg09/study_leetcode/blob/master/0412_fizzbuzz.py)
 
 0719 [Find K-th Smallest Pair Distance](https://github.com/piecesofreg09/study_leetcode/blob/master/0719_find_kth_smallest_pair_distance.py)
