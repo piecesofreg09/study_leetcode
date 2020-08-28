@@ -1,6 +1,6 @@
 '''
 backtrack
-remember to change data
+no need to reset data, because the condition checking only involves the line above
 '''
 class Solution:
     def totalNQueens(self, n: int) -> int:
