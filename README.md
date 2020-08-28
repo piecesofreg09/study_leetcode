@@ -6,13 +6,13 @@ Code for Leetcode
 | :------------- |:-------|-----|
 |M|0003|[Longest Substring Without Repeating Characters](https://github.com/piecesofreg09/study_leetcode/blob/master/0003_longest_substring_without_repeating_chars.py)
 
-M 0006: [ZigZag Conversion](https://github.com/piecesofreg09/study_leetcode/blob/master/0006_zigzag_converstion.py)
+|M|0006|[ZigZag Conversion](https://github.com/piecesofreg09/study_leetcode/blob/master/0006_zigzag_converstion.py)
 
-M 0011 [Container With Most Water](https://github.com/piecesofreg09/study_leetcode/blob/master/0011_container_with_most_water.py)
+|M|0011|[Container With Most Water](https://github.com/piecesofreg09/study_leetcode/blob/master/0011_container_with_most_water.py)
 
-M 0015 [3sum](https://github.com/piecesofreg09/study_leetcode/blob/master/0015_3_sum.py)
+|M| 0015| [3sum](https://github.com/piecesofreg09/study_leetcode/blob/master/0015_3_sum.py)
 
-M 0018 [4sum](https://github.com/piecesofreg09/study_leetcode/blob/master/0018_4sum.py)
+|M| 0018| [4sum](https://github.com/piecesofreg09/study_leetcode/blob/master/0018_4sum.py)
 
 H 0023 [Merge k sorted lists](https://github.com/piecesofreg09/study_leetcode/blob/master/0023_merge_k_sorted_lists.py)
 
