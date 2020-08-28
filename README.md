@@ -65,6 +65,8 @@ H 0381 [Insert Delete GetRandom O(1) - Duplicates allowed](https://github.com/pi
 
 E 0412 [Fizz Buzz](https://github.com/piecesofreg09/study_leetcode/blob/master/0412_fizzbuzz.py)
 
+E 0665 [Non-decreasing Array](https://github.com/piecesofreg09/study_leetcode/blob/master/0665_Non_decreasing_Array.py)
+
 H 0719 [Find K-th Smallest Pair Distance](https://github.com/piecesofreg09/study_leetcode/blob/master/0719_find_kth_smallest_pair_distance.py)
 
 H 0980 [Unique Paths III](https://github.com/piecesofreg09/study_leetcode/blob/master/0980_Unique_Paths_III.py)
