@@ -17,6 +17,8 @@ Codes for leetcode
 
 0025 [Reverse Nodes in k-group](https://github.com/piecesofreg09/study_leetcode/blob/master/0025_reverse_nodes_in_k_group.py)
 
+H 0030 [Substring with Concatenation of All Words](https://github.com/piecesofreg09/study_leetcode/blob/master/0030_Substring_with_Concatenation_of_All_Words.py)
+
 0036 [Valid Sudoku](https://github.com/piecesofreg09/study_leetcode/blob/master/0036_valid_sudoku.py)
 
 0041 [First Missing Positive](https://github.com/piecesofreg09/study_leetcode/blob/master/0041_first_missing_positive.py)
