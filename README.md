@@ -42,6 +42,7 @@ Code for Leetcode
 |H|0381|[Insert Delete GetRandom O(1) - Duplicates allowed](https://github.com/piecesofreg09/study_leetcode/blob/master/0381_insert_remove_get_random_O(1).py)
 |E|0412|[Fizz Buzz](https://github.com/piecesofreg09/study_leetcode/blob/master/0412_fizzbuzz.py)
 |E|0443|[String Compression](https://github.com/piecesofreg09/study_leetcode/blob/master/0443_string_compression.py)
+|H|0480|[Sliding Window Median](https://github.com/piecesofreg09/study_leetcode/blob/master/0480_sliding_window_median.py)
 |E|0665|[Non-decreasing Array](https://github.com/piecesofreg09/study_leetcode/blob/master/0665_Non_decreasing_Array.py)
 |H|0719|[Find K-th Smallest Pair Distance](https://github.com/piecesofreg09/study_leetcode/blob/master/0719_find_kth_smallest_pair_distance.py)
 |H|0980|[Unique Paths III](https://github.com/piecesofreg09/study_leetcode/blob/master/0980_Unique_Paths_III.py)
