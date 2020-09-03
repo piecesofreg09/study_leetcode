@@ -20,6 +20,7 @@ Code for Leetcode
 |H|0045|[Jump Game II](https://github.com/piecesofreg09/study_leetcode/blob/master/0045_jump_game_II.py)
 |H|0051|[N Queen](https://github.com/piecesofreg09/study_leetcode/blob/master/0051_N_Queen.py)
 |H|0052|[N Queen II](https://github.com/piecesofreg09/study_leetcode/blob/master/0052_N_Queen_II.py)
+|H|0060|[Permutation Sequence](https://github.com/piecesofreg09/study_leetcode/blob/master/0060_Permutation_Sequence.py)
 |H|0072|[Edit Distance](https://github.com/piecesofreg09/study_leetcode/blob/master/0072_edit_distance.py)
 |M|0073|[Set Matrix Zeroes](https://github.com/piecesofreg09/study_leetcode/blob/master/0073_set_matrix_zeros.py)
 |M|0075|[Sort Colors](https://github.com/piecesofreg09/study_leetcode/blob/master/0075_sort_colors.py)
