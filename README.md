@@ -33,6 +33,7 @@ Code for Leetcode
 |M|0086|[Partition List](https://github.com/piecesofreg09/study_leetcode/blob/master/0086_partition_list.py)
 |E|0088|[Merge Sorted Array](https://github.com/piecesofreg09/study_leetcode/blob/master/0088_merge_sorted_array.py)
 |H|0097|[Interleaving String](https://github.com/piecesofreg09/study_leetcode/blob/master/0097_interleaving_string.py)
+|E|0101|[Symmetric Tree](https://github.com/piecesofreg09/study_leetcode/blob/master/0101_Symmetric_Tree.py)
 |M|0103|[Binary Tree Zigzag Level Order Traversal](https://github.com/piecesofreg09/study_leetcode/blob/master/0103_Binary_Tree_Zigzag_Level_Order_Traversal.py)
 |M|0116|[Populating Next Right Pointers in Each Node](https://github.com/piecesofreg09/study_leetcode/blob/master/0116_Populating_Next_Right_Pointers_in_Each_Node.py)
 |M|0137|[Single Number II](https://github.com/piecesofreg09/study_leetcode/blob/master/0137_Single_Number_II.py)
