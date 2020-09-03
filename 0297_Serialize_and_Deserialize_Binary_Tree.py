@@ -1,3 +1,10 @@
+'''
+input: [1,2,3,null,null,4,5,null,null,null,5,null,6,null,6]
+serialized: 1,2,3,None,None,4,5,None,None,None,5,None,6,None,6,None,None
+the segments are 
+1   2,3,  None,None,4,5,  None,None,None,5    None,6     None,6   None,None
+the length of each segment is 2 * (the number of non-zero elements in the previous segment) 
+'''
 # Definition for a binary tree node.
 # class TreeNode(object):
 #     def __init__(self, x):
