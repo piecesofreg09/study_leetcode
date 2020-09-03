@@ -44,6 +44,7 @@ Code for Leetcode
 |M|0386|[Lexicographical Numbers](https://github.com/piecesofreg09/study_leetcode/blob/master/0386_Lexicographical_Numbers.py)
 |E|0412|[Fizz Buzz](https://github.com/piecesofreg09/study_leetcode/blob/master/0412_fizzbuzz.py)
 |E|0443|[String Compression](https://github.com/piecesofreg09/study_leetcode/blob/master/0443_string_compression.py)
+|M|0450|[Delete Node in a BST](https://github.com/piecesofreg09/study_leetcode/blob/master/0450_delete_node_in_BST.py)
 |H|0480|[Sliding Window Median](https://github.com/piecesofreg09/study_leetcode/blob/master/0480_sliding_window_median.py)
 |E|0665|[Non-decreasing Array](https://github.com/piecesofreg09/study_leetcode/blob/master/0665_Non_decreasing_Array.py)
 |H|0719|[Find K-th Smallest Pair Distance](https://github.com/piecesofreg09/study_leetcode/blob/master/0719_find_kth_smallest_pair_distance.py)
