@@ -41,6 +41,7 @@ Code for Leetcode
 |E|0326|[Power of 3 (Multiple solutions)](https://github.com/piecesofreg09/study_leetcode/blob/master/0326_power_of_3.py)
 |M|0378|[Kth Smallest Element in a Sorted Matrix (Multiple solutions)](https://github.com/piecesofreg09/study_leetcode/blob/master/0378_kth_smallest_element_in_sorted_array.py)
 |H|0381|[Insert Delete GetRandom O(1) - Duplicates allowed](https://github.com/piecesofreg09/study_leetcode/blob/master/0381_insert_remove_get_random_O(1).py)
+|M|0386|[Lexicographical Numbers](https://github.com/piecesofreg09/study_leetcode/blob/master/0386_Lexicographical_Numbers.py)
 |E|0412|[Fizz Buzz](https://github.com/piecesofreg09/study_leetcode/blob/master/0412_fizzbuzz.py)
 |E|0443|[String Compression](https://github.com/piecesofreg09/study_leetcode/blob/master/0443_string_compression.py)
 |H|0480|[Sliding Window Median](https://github.com/piecesofreg09/study_leetcode/blob/master/0480_sliding_window_median.py)
