@@ -37,6 +37,7 @@ Code for Leetcode
 |H|0149|[Max Points On A Line](https://github.com/piecesofreg09/study_leetcode/blob/master/0149_max_points_on_a_line.py)
 |E|0190|[Reverse Bits](https://github.com/piecesofreg09/study_leetcode/blob/master/0190_reverse_bits.py)
 |E|0191|[Number of 1 Bits](https://github.com/piecesofreg09/study_leetcode/blob/master/0191_Number_of_1_Bits.py)
+|M|0221|[Maximal Square](https://github.com/piecesofreg09/study_leetcode/blob/master/0221_maximal_square.py)
 |M|0289|[Game of Life](https://github.com/piecesofreg09/study_leetcode/blob/master/0289_game_of_life.py)
 |H|0297|[Serialize and Deserialize Binary Tree](https://github.com/piecesofreg09/study_leetcode/blob/master/0297_Serialize_and_Deserialize_Binary_Tree.py)
 |H|0315|[Count of Smaller Numbers After Self](https://github.com/piecesofreg09/study_leetcode/blob/master/0315_Count%20of_Smaller_Numbers_After_Self.py)
