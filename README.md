@@ -38,6 +38,7 @@ Code for Leetcode
 |E|0190|[Reverse Bits](https://github.com/piecesofreg09/study_leetcode/blob/master/0190_reverse_bits.py)
 |E|0191|[Number of 1 Bits](https://github.com/piecesofreg09/study_leetcode/blob/master/0191_Number_of_1_Bits.py)
 |M|0289|[Game of Life](https://github.com/piecesofreg09/study_leetcode/blob/master/0289_game_of_life.py)
+|H|0297|[Serialize and Deserialize Binary Tree](https://github.com/piecesofreg09/study_leetcode/blob/master/0297_Serialize_and_Deserialize_Binary_Tree.py)
 |H|0315|[Count of Smaller Numbers After Self](https://github.com/piecesofreg09/study_leetcode/blob/master/0315_Count%20of_Smaller_Numbers_After_Self.py)
 |E|0326|[Power of 3 (Multiple solutions)](https://github.com/piecesofreg09/study_leetcode/blob/master/0326_power_of_3.py)
 |M|0378|[Kth Smallest Element in a Sorted Matrix (Multiple solutions)](https://github.com/piecesofreg09/study_leetcode/blob/master/0378_kth_smallest_element_in_sorted_array.py)
