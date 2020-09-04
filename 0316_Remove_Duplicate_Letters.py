@@ -1,4 +1,11 @@
-from collections import defaultdict
+'''
+starting from beginning
+if the letter has been seen, then ignore
+if the letter has not been seen,
+    if the letter is smaller than the last letter on stack, and the last letter on stack is not its last choice, then pop from the stack
+then we add the new character to it
+'''
+
 class Solution:
     def removeDuplicateLetters(self, s: str) -> str:
         
