@@ -64,6 +64,7 @@ Code for Leetcode
 |H|0719|[Find K-th Smallest Pair Distance](https://github.com/piecesofreg09/study_leetcode/blob/master/0719_find_kth_smallest_pair_distance.py)
 |H|0980|[Unique Paths III](https://github.com/piecesofreg09/study_leetcode/blob/master/0980_Unique_Paths_III.py)
 |H|1001|[Grid Illumination](https://github.com/piecesofreg09/study_leetcode/blob/master/1001_grid_illumination.py)
+|M|1143|[Longest Common Subsequence](https://github.com/piecesofreg09/study_leetcode/blob/master/1143_Longest_Common_Subsequence.py)
 |H|1402|[Reducing Dishes](https://github.com/piecesofreg09/study_leetcode/blob/master/1402_Reducing_Dishes.py)
 
 
