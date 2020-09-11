@@ -1,3 +1,14 @@
+'''
+---(i-1, j-1)---(i,j-1)---
+----    r1   ----  r2  ---
+---(i-1, j)-----(i,j)---
+----    r3   ----  r4 ----
+
+when the p is "*", then match with the r2 || r3
+when the p is "?", then match with r1
+when the p is a letter, then match with r1 || p[i] == s[j]
+
+'''
 class Solution:
     def isMatch(self, s: str, p: str) -> bool:
         dp = [[False for i in range(len(s) + 1)] for j in range(len(p) + 1)]
