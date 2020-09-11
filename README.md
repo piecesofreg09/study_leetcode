@@ -7,6 +7,7 @@ Code for Leetcode
 |M|0003|[Longest Substring Without Repeating Characters](https://github.com/piecesofreg09/study_leetcode/blob/master/0003_longest_substring_without_repeating_chars.py)
 |H|0004|[Median of Two Sorted Arrays](https://github.com/piecesofreg09/study_leetcode/blob/master/0004_Median_of_Two_Sorted_Arrays.py)
 |M|0006|[ZigZag Conversion](https://github.com/piecesofreg09/study_leetcode/blob/master/0006_zigzag_converstion.py)
+|H|0010|[Regular Expression Matching](https://github.com/piecesofreg09/study_leetcode/blob/master/0010_Regular_Expression_Matching.py)
 |M|0011|[Container With Most Water](https://github.com/piecesofreg09/study_leetcode/blob/master/0011_container_with_most_water.py)
 |M|0015|[3sum](https://github.com/piecesofreg09/study_leetcode/blob/master/0015_3_sum.py)
 |M|0018|[4sum](https://github.com/piecesofreg09/study_leetcode/blob/master/0018_4sum.py)
