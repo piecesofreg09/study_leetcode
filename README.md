@@ -60,6 +60,7 @@ Code for Leetcode
 |M|0378|[Kth Smallest Element in a Sorted Matrix (Multiple solutions)](https://github.com/piecesofreg09/study_leetcode/blob/master/0378_kth_smallest_element_in_sorted_array.py)
 |H|0381|[Insert Delete GetRandom O(1) - Duplicates allowed](https://github.com/piecesofreg09/study_leetcode/blob/master/0381_insert_remove_get_random_O(1).py)
 |M|0386|[Lexicographical Numbers](https://github.com/piecesofreg09/study_leetcode/blob/master/0386_Lexicographical_Numbers.py)
+|M|0400|[Nth Digit](https://github.com/piecesofreg09/study_leetcode/blob/master/0400_Nth_Digit.py)
 |E|0412|[Fizz Buzz](https://github.com/piecesofreg09/study_leetcode/blob/master/0412_fizzbuzz.py)
 |E|0443|[String Compression](https://github.com/piecesofreg09/study_leetcode/blob/master/0443_string_compression.py)
 |M|0450|[Delete Node in a BST](https://github.com/piecesofreg09/study_leetcode/blob/master/0450_delete_node_in_BST.py)
