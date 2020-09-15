@@ -63,6 +63,7 @@ Code for Leetcode
 |H|0381|[Insert Delete GetRandom O(1) - Duplicates allowed](https://github.com/piecesofreg09/study_leetcode/blob/master/0381_insert_remove_get_random_O(1).py)
 |M|0386|[Lexicographical Numbers](https://github.com/piecesofreg09/study_leetcode/blob/master/0386_Lexicographical_Numbers.py)
 |M|0400|[Nth Digit](https://github.com/piecesofreg09/study_leetcode/blob/master/0400_Nth_Digit.py)
+|M|0402|[Remove K Digits](https://github.com/piecesofreg09/study_leetcode/blob/master/0402_Remove_K_Digits.py)
 |E|0412|[Fizz Buzz](https://github.com/piecesofreg09/study_leetcode/blob/master/0412_fizzbuzz.py)
 |E|0443|[String Compression](https://github.com/piecesofreg09/study_leetcode/blob/master/0443_string_compression.py)
 |M|0445|[Add Two Numbers II](https://github.com/piecesofreg09/study_leetcode/blob/master/0445_Add_Two_Numbers_II.py)
