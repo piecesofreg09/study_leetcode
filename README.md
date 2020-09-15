@@ -57,6 +57,7 @@ Code for Leetcode
 |E|0326|[Power of 3 (Multiple solutions)](https://github.com/piecesofreg09/study_leetcode/blob/master/0326_power_of_3.py)
 |H|0327|[Count of Range Sum](https://github.com/piecesofreg09/study_leetcode/blob/master/0327_Count_of_Range_Sum.py)
 |M|0328|[Odd Even Linked List](https://github.com/piecesofreg09/study_leetcode/blob/master/0328_Odd_Even_Linked_List.py)
+|H|0329|[Longest Increasing Path in a Matrix (Multiple solutions)](https://github.com/piecesofreg09/study_leetcode/blob/master/0329_Longest_Increasing_Path_in_a_Matrix.py)
 |M|0371|[Sum of Two Integers](https://github.com/piecesofreg09/study_leetcode/blob/master/0371_Sum_of_Two_Integers.py)
 |M|0378|[Kth Smallest Element in a Sorted Matrix (Multiple solutions)](https://github.com/piecesofreg09/study_leetcode/blob/master/0378_kth_smallest_element_in_sorted_array.py)
 |H|0381|[Insert Delete GetRandom O(1) - Duplicates allowed](https://github.com/piecesofreg09/study_leetcode/blob/master/0381_insert_remove_get_random_O(1).py)
