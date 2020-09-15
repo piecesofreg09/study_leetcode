@@ -74,6 +74,7 @@ Code for Leetcode
 |M|0470|[Implement Rand10() Using Rand7()](https://github.com/piecesofreg09/study_leetcode/blob/master/0470_Implement_Rand10()_Using_Rand7().py)
 |H|0480|[Sliding Window Median](https://github.com/piecesofreg09/study_leetcode/blob/master/0480_sliding_window_median.py)
 |H|0493|[Reverse Pairs](https://github.com/piecesofreg09/study_leetcode/blob/master/0493_Reverse_Pairs.py)
+|E|0500|[Keyboard Row](https://github.com/piecesofreg09/study_leetcode/blob/master/0500_Keyboard_Row.py)
 |M|0659|[Split Array into Consecutive Subsequences](https://github.com/piecesofreg09/study_leetcode/blob/master/0659_Split_Array_into_Consecutive_Subsequences.py)
 |E|0665|[Non-decreasing Array](https://github.com/piecesofreg09/study_leetcode/blob/master/0665_Non_decreasing_Array.py)
 |H|0719|[Find K-th Smallest Pair Distance](https://github.com/piecesofreg09/study_leetcode/blob/master/0719_find_kth_smallest_pair_distance.py)
