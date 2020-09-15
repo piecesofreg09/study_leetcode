@@ -52,6 +52,7 @@ Code for Leetcode
 |M|0289|[Game of Life](https://github.com/piecesofreg09/study_leetcode/blob/master/0289_game_of_life.py)
 |H|0297|[Serialize and Deserialize Binary Tree](https://github.com/piecesofreg09/study_leetcode/blob/master/0297_Serialize_and_Deserialize_Binary_Tree.py)
 |M|0300|[Longest Increasing Subsequence](https://github.com/piecesofreg09/study_leetcode/blob/master/0300_Longest_Increasing_Subsequence.py)
+|M|0310|[Minimum Height Trees](https://github.com/piecesofreg09/study_leetcode/blob/master/0310_Minimum_Height_Trees.py)
 |H|0315|[Count of Smaller Numbers After Self](https://github.com/piecesofreg09/study_leetcode/blob/master/0315_Count%20of_Smaller_Numbers_After_Self.py)
 |H|0316|[Remove Duplicate Letters](https://github.com/piecesofreg09/study_leetcode/blob/master/0316_Remove_Duplicate_Letters.py)
 |M|0319|[Bulb Switcher](https://github.com/piecesofreg09/study_leetcode/blob/master/0319_Bulb_Switcher.py)
