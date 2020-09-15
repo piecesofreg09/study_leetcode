@@ -67,6 +67,7 @@ Code for Leetcode
 |E|0443|[String Compression](https://github.com/piecesofreg09/study_leetcode/blob/master/0443_string_compression.py)
 |M|0445|[Add Two Numbers II](https://github.com/piecesofreg09/study_leetcode/blob/master/0445_Add_Two_Numbers_II.py)
 |M|0450|[Delete Node in a BST](https://github.com/piecesofreg09/study_leetcode/blob/master/0450_delete_node_in_BST.py)
+|M|0470|[Implement Rand10() Using Rand7()](https://github.com/piecesofreg09/study_leetcode/blob/master/0470_Implement_Rand10()_Using_Rand7().py)
 |H|0480|[Sliding Window Median](https://github.com/piecesofreg09/study_leetcode/blob/master/0480_sliding_window_median.py)
 |H|0493|[Reverse Pairs](https://github.com/piecesofreg09/study_leetcode/blob/master/0493_Reverse_Pairs.py)
 |M|0659|[Split Array into Consecutive Subsequences](https://github.com/piecesofreg09/study_leetcode/blob/master/0659_Split_Array_into_Consecutive_Subsequences.py)
