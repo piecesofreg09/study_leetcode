@@ -49,6 +49,7 @@ Code for Leetcode
 |E|0191|[Number of 1 Bits](https://github.com/piecesofreg09/study_leetcode/blob/master/0191_Number_of_1_Bits.py)
 |M|0221|[Maximal Square](https://github.com/piecesofreg09/study_leetcode/blob/master/0221_maximal_square.py)
 |M|0222|[Count Complete Tree Nodes](https://github.com/piecesofreg09/study_leetcode/blob/master/0222_Count_Complete_Tree_Nodes.py)
+|M|0229|[Majority Element II](https://github.com/piecesofreg09/study_leetcode/blob/master/0229_Majority_Element_II.py)
 |M|0289|[Game of Life](https://github.com/piecesofreg09/study_leetcode/blob/master/0289_game_of_life.py)
 |H|0297|[Serialize and Deserialize Binary Tree](https://github.com/piecesofreg09/study_leetcode/blob/master/0297_Serialize_and_Deserialize_Binary_Tree.py)
 |M|0300|[Longest Increasing Subsequence](https://github.com/piecesofreg09/study_leetcode/blob/master/0300_Longest_Increasing_Subsequence.py)
