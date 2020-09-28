@@ -45,6 +45,7 @@ Code for Leetcode
 |M|0133|[Clone Graph](https://github.com/piecesofreg09/study_leetcode/blob/master/0133_clone_graph.py)
 |M|0137|[Single Number II](https://github.com/piecesofreg09/study_leetcode/blob/master/0137_Single_Number_II.py)
 |H|0149|[Max Points On A Line](https://github.com/piecesofreg09/study_leetcode/blob/master/0149_max_points_on_a_line.py)
+|M|0150|[Evaluate Reverse Polish Notation](https://github.com/piecesofreg09/study_leetcode/blob/master/0150_Evaluate_Reverse_Polish_Notation.py)
 |E|0190|[Reverse Bits](https://github.com/piecesofreg09/study_leetcode/blob/master/0190_reverse_bits.py)
 |E|0191|[Number of 1 Bits](https://github.com/piecesofreg09/study_leetcode/blob/master/0191_Number_of_1_Bits.py)
 |M|0208|[Implement Trie (Prefix Tree)](https://github.com/piecesofreg09/study_leetcode/blob/master/0208_Implement_Trie_(Prefix_Tree).py)
