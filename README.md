@@ -71,6 +71,7 @@ Code for Leetcode
 |M|0396|[Rotate Function](https://github.com/piecesofreg09/study_leetcode/blob/master/0396_Rotate_Function.py)
 |M|0400|[Nth Digit](https://github.com/piecesofreg09/study_leetcode/blob/master/0400_Nth_Digit.py)
 |M|0402|[Remove K Digits](https://github.com/piecesofreg09/study_leetcode/blob/master/0402_Remove_K_Digits.py)
+|M|0406|[Queue Reconstruction by Height](https://github.com/piecesofreg09/study_leetcode/blob/master/0406_Queue_Reconstruction_by_Height.py)
 |E|0412|[Fizz Buzz](https://github.com/piecesofreg09/study_leetcode/blob/master/0412_fizzbuzz.py)
 |E|0443|[String Compression](https://github.com/piecesofreg09/study_leetcode/blob/master/0443_string_compression.py)
 |M|0445|[Add Two Numbers II](https://github.com/piecesofreg09/study_leetcode/blob/master/0445_Add_Two_Numbers_II.py)
