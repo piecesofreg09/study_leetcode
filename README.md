@@ -97,6 +97,7 @@ Code for Leetcode
 |M|0809|[Expressive Words](https://github.com/piecesofreg09/study_leetcode/blob/master/0809_Expressive_Words.py)
 |M|0848|[Shifting Letters](https://github.com/piecesofreg09/study_leetcode/blob/master/0848_Shifting_Letters.py)
 |M|0849|[Maximize Distance to Closest Person](https://github.com/piecesofreg09/study_leetcode/blob/master/0849_Maximize_Distance_to_Closest_Person.py)
+|M|0859|[Buddy Strings](https://github.com/piecesofreg09/study_leetcode/blob/master/0859_Buddy_Strings.py)
 |M|0881|[Boats to Save People](https://github.com/piecesofreg09/study_leetcode/blob/master/0881_Boats_to_Save_People.py)
 |M|0918|[Maximum Sum Circular Subarray](https://github.com/piecesofreg09/study_leetcode/blob/master/0918_Maximum_Sum_Circular_Subarray.py)
 |H|0980|[Unique Paths III](https://github.com/piecesofreg09/study_leetcode/blob/master/0980_Unique_Paths_III.py)
