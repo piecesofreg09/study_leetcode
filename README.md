@@ -101,6 +101,7 @@ Code for Leetcode
 |M|0859|[Buddy Strings](https://github.com/piecesofreg09/study_leetcode/blob/master/0859_Buddy_Strings.py)
 |M|0881|[Boats to Save People](https://github.com/piecesofreg09/study_leetcode/blob/master/0881_Boats_to_Save_People.py)
 |M|0918|[Maximum Sum Circular Subarray](https://github.com/piecesofreg09/study_leetcode/blob/master/0918_Maximum_Sum_Circular_Subarray.py)
+|M|0973|[K Closest Points to Origin](https://github.com/piecesofreg09/study_leetcode/blob/master/0973_K_Closest_Points_to_Origin.py)
 |H|0980|[Unique Paths III](https://github.com/piecesofreg09/study_leetcode/blob/master/0980_Unique_Paths_III.py)
 |H|1001|[Grid Illumination](https://github.com/piecesofreg09/study_leetcode/blob/master/1001_grid_illumination.py)
 |M|1143|[Longest Common Subsequence](https://github.com/piecesofreg09/study_leetcode/blob/master/1143_Longest_Common_Subsequence.py)
