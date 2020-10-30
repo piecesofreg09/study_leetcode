@@ -70,6 +70,7 @@ Code for Leetcode
 |M|0378|[Kth Smallest Element in a Sorted Matrix (Multiple solutions)](https://github.com/piecesofreg09/study_leetcode/blob/master/0378_kth_smallest_element_in_sorted_array.py)
 |H|0381|[Insert Delete GetRandom O(1) - Duplicates allowed](https://github.com/piecesofreg09/study_leetcode/blob/master/0381_insert_remove_get_random_O(1).py)
 |M|0386|[Lexicographical Numbers](https://github.com/piecesofreg09/study_leetcode/blob/master/0386_Lexicographical_Numbers.py)
+|M|0394|[Decode String](https://github.com/piecesofreg09/study_leetcode/blob/master/0394_Decode_String.py)
 |M|0396|[Rotate Function](https://github.com/piecesofreg09/study_leetcode/blob/master/0396_Rotate_Function.py)
 |M|0400|[Nth Digit](https://github.com/piecesofreg09/study_leetcode/blob/master/0400_Nth_Digit.py)
 |M|0402|[Remove K Digits](https://github.com/piecesofreg09/study_leetcode/blob/master/0402_Remove_K_Digits.py)
