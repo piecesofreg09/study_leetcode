@@ -105,7 +105,9 @@ Code for Leetcode
 |M|0973|[K Closest Points to Origin](https://github.com/piecesofreg09/study_leetcode/blob/master/0973_K_Closest_Points_to_Origin.py)
 |H|0980|[Unique Paths III](https://github.com/piecesofreg09/study_leetcode/blob/master/0980_Unique_Paths_III.py)
 |H|1001|[Grid Illumination](https://github.com/piecesofreg09/study_leetcode/blob/master/1001_grid_illumination.py)
+|M|1019|[Next Greater Node In Linked List](https://github.com/piecesofreg09/study_leetcode/blob/master/1019_Next_Greater_Node_In_Linked_List.py)
 |M|1143|[Longest Common Subsequence](https://github.com/piecesofreg09/study_leetcode/blob/master/1143_Longest_Common_Subsequence.py)
+|E|1290|[Convert Binary Number in a Linked List to Integer](https://github.com/piecesofreg09/study_leetcode/blob/master/1290_Convert_Binary_Number_in_a_Linked_List_to_Integer.py)
 |H|1402|[Reducing Dishes](https://github.com/piecesofreg09/study_leetcode/blob/master/1402_Reducing_Dishes.py)
 
 
