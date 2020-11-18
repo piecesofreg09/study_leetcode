@@ -88,6 +88,7 @@ Code for Leetcode
 |E|0500|[Keyboard Row](https://github.com/piecesofreg09/study_leetcode/blob/master/0500_Keyboard_Row.py)
 |M|0508|[Most Frequent Subtree Sum](https://github.com/piecesofreg09/study_leetcode/blob/master/0508_Most_Frequent_Subtree_Sum.py)
 |M|0532|[K-diff Pairs in an Array](https://github.com/piecesofreg09/study_leetcode/blob/master/0532_K-diff_Pairs_in_an_Array.py)
+|M|0542(https://leetcode.com/problems/01-matrix/)|[01 Matrix](https://github.com/piecesofreg09/study_leetcode/blob/master/0542_01_Matrix.py)
 |M|0659|[Split Array into Consecutive Subsequences](https://github.com/piecesofreg09/study_leetcode/blob/master/0659_Split_Array_into_Consecutive_Subsequences.py)
 |E|0665|[Non-decreasing Array](https://github.com/piecesofreg09/study_leetcode/blob/master/0665_Non_decreasing_Array.py)
 |M|0672|[Bulb Switcher II](https://github.com/piecesofreg09/study_leetcode/blob/master/0672_Bulb_Switcher_II.py)
